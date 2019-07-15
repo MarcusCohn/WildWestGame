@@ -80,3 +80,4 @@ DerivedDataCache/*
 /WildWestGame/Saved/Logs/*.log
 /WildWestGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 /WildWestGame/Saved/Config/Windows/Engine.ini
+/WildWestGame/Intermediate/CachedAssetRegistry.bin
