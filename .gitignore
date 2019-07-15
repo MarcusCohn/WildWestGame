@@ -78,3 +78,5 @@ DerivedDataCache/*
 /WildWestGame/Saved/AutoScreenshot.png
 /WildWestGame/Saved/Logs/*.log
 /WildWestGame/Saved/Logs/*.log
+/WildWestGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/WildWestGame/Saved/Config/Windows/Engine.ini
